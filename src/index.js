@@ -47,3 +47,11 @@
 // val5[0] = "bird";
 // val5.push("monkey");
 // console.log(val5);
+
+
+const func1 = function(str){
+  return str;  
+};
+
+console.log(func1("aaa"));
+
